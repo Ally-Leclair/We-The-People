@@ -1,0 +1,75 @@
+/*SetUp*/
+
+body {
+    background-color: white;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*NavBar*/
+
+#navbar {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #6c86a1;
+    border-bottom: 8px solid #c05b43;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+li.nav {
+    float: right;
+    font-size: 15px;
+}
+
+li.nav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: garamond;
+}
+
+li.nav a:hover {
+    opacity: 50%;
+}
+
+h1{
+    margin: 100px;
+    font-size: 60px;
+}
+
+#ap{
+    border: 10px solid black;
+}
+
+.quiz{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.quiztext{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding:50px;
+    margin:50px;
+    font-size: 1.5em;
+}
+
+.social {
+    background-color: #32383d;
+    padding: 50px;
+}
+
+#email {
+    color: white;
+}
+

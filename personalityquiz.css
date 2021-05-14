@@ -1,0 +1,117 @@
+/* CSS files add styling rules to your content */
+
+body {
+ display:flex;
+  justify-content:center;
+  justify-content:space-between;
+  background: White;
+  font-family: "Bookman Old Style";
+padding:20px;
+  margin-left:30px;
+}
+
+
+
+li.nav a:hover {
+    opacity: 50%;
+}
+
+li.nav a:hover {
+    opacity: 50%;
+}
+#header {
+  background-color: #6c86a1;
+ height:600px;
+  width:1200px;
+  border: 18px solid #c05b43;
+  border-radius: 12px;
+}
+
+h1 {
+  font-family: "Bookman Old Style";
+  font-style: none;
+  color: black;
+  font-size: 60px;
+  margin: 30px;
+}
+
+* {
+  margin-top: 0px;
+ 
+}
+
+#headerimage {
+  margin-bottom: 0px;
+  margin-top: 20px;
+  background-color: #c05b43;
+  padding: 40px;
+  border-radius: 50%;
+}
+
+p {
+  font-family: "Bookman Old Style";
+  font-size: 30px;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  background-color:#6c86a1 ;
+  text-alignment:center;
+ padding:80px;
+  margin-left:70px;
+  margin-right:70px;
+  border: 18px solid #c05b43;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  border-radius: 12px;
+  font-family: "Bookman Old Style";
+  font-size: 50px;
+}
+
+.question {
+  display: flex;
+  margin-top: 2em;
+}
+
+.answer-choice img {
+  height: 10em;
+}
+
+button {
+  background-color: #c05b43;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-bottom:70px;
+}
+.button:hover {
+  opacity: 50%;
+}
+
+.button2:hover {
+  opacity: 50%;
+}
+
+.button3:hover {
+  opacity: 50%;
+}
+
+.image {
+  align-content:center;
+  border: 15px solid #c05b43;
+  border-radius: 5px;
+  margin-top: 70px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 10px;
+}
+
+
+
+
+
